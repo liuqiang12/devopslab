@@ -8,4 +8,4 @@ spec:
     - name: revision
       value: master
     - name: url
-      value: https://github.com/<your-git-account>/devopslab
+      value: https://github.com/liuqiang12/devopslab
