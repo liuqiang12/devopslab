@@ -1,6 +1,6 @@
 export GITACCOUNT=784248173@qq.com
 
-export MYCLUSTER=
+export MYCLUSTER=tektonknativebeijing31
 export KUBECONFIG=
 
 export NAMESPACE=liuqiang
